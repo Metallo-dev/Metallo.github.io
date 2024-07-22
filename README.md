@@ -16,7 +16,14 @@ documentation-site
 12.可以实现配置中转站功能，A触发事件将参数发送到B,B处理后发生对应参数到C，C实现目标事件（配置一个域然后进行配置即可）   
 13.安卓，ios，macos端暂时不考虑   
 14.优先考虑TG机器人  
-  
+
+优先mvp项目：
+1.实时监测功能：
+1）web端> 传感器-DTU-mqtt-emqx-influxDB-grafana
+2)移动端> tgbot与miniprogram
+
+2.实时操控功能：
+1) web端> 
 后期搭建app，web，bot等等项目
   
 后端技术栈：传感器设备通过MQTT发送数据，后端使用Dapr处理消息，使用C#和ASP.NET Core构建Web API，并将数据存储到MongoDB中。
