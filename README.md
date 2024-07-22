@@ -23,7 +23,8 @@ documentation-site
 2)移动端> tgbot与miniprogram
 
 2.实时操控功能：
-1) web端> 
+1) web端> zigbee开关-zigbee2mqtt网关-Homeassistant控制
+2) 移动端> tgbot与miniprogram
 后期搭建app，web，bot等等项目
   
 后端技术栈：传感器设备通过MQTT发送数据，后端使用Dapr处理消息，使用C#和ASP.NET Core构建Web API，并将数据存储到MongoDB中。
