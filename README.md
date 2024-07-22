@@ -17,14 +17,14 @@ documentation-site
 13.安卓，ios，macos端暂时不考虑   
 14.优先考虑TG机器人  
 
-优先mvp项目：
-1.实时监测功能：
-1）web端> 传感器-DTU-mqtt-emqx-influxDB-grafana
-2)移动端> tgbot与miniprogram
+优先mvp项目：  
+1.实时监测功能：  
+1）web端> 传感器-DTU-mqtt-emqx-influxDB-grafana  
+2)移动端> tgbot与miniprogram  
 
-2.实时操控功能：
-1) web端> zigbee开关-zigbee2mqtt网关-Homeassistant控制
-2) 移动端> tgbot与miniprogram
+2.实时操控功能：  
+1) web端> zigbee开关-zigbee2mqtt网关-Homeassistant控制  
+2) 移动端> tgbot与miniprogram  
 
   
 
